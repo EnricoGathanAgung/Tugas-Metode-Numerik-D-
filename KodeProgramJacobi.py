@@ -1,4 +1,4 @@
-# KodeProgramJacobi.py
+
 # NIM: 21120123140127 (dua digit terakhir 27 -> NIMx mod4 = 3 -> g1B & g2B)
 import math
 
@@ -38,4 +38,5 @@ if __name__ == '__main__':
     x0,y0 = 1.5,3.5
     sol = jacobi(x0,y0)
     print('\nResult:', sol)
+
 
